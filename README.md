@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Mastering Regular Expressions in javascript" />
+  <img src="https://github.com/silavsale/Mastering-Regular-Expressions-Regex-in-JavaScript" alt="Mastering Regular Expressions in javascript" />
 
 &#xa0;
 
@@ -78,7 +78,7 @@ Clone this repository and test the code in conlose or with quokka js
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/silavsale/Mastering-Regular-Expressions-Regex-in-JavaScript" target="_blank">Sergiy</a>
+Made with :heart: by <a href="https://github.com/silavsale/Mastering-Regular-Expressions-Regex-in-JavaScript" target="_blank">Серджио</a>
 
 &#xa0;
 
