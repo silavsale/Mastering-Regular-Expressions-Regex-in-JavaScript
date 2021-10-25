@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="{{Mastering Regular Expressions in javascript}}" />
+  <img src="./.github/app.gif" alt="Mastering Regular Expressions in javascript" />
 
 &#xa0;
 
   <!-- <a href="https://{{app_url}}.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">{{Mastering Regular Expressions in javascript}}</h1>
+<h1 align="center">Mastering Regular Expressions in javascript</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{github}}/{{repository}}?color=56BEB8">
@@ -52,11 +52,11 @@ All about Regex
 
 :heavy_check_mark: Section 1: Getting Started with Regular Expressions;\
 
-i. Methods
+1. Methods
+2. Flags
+3. Regexpal
 
-ii. Flags
-
-iii. Regexpal
+:heavy_check_mark: Section 2: Specifying Characters in Regular Expres;\
 
 ## :rocket: Docs
 
@@ -78,7 +78,7 @@ Clone this repository and test the code in conlose or with quokka js
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/silavsale/Mastering-Regular-Expressions-Regex-in-JavaScript" target="_blank">{{Sergiy}}</a>
+Made with :heart: by <a href="https://github.com/silavsale/Mastering-Regular-Expressions-Regex-in-JavaScript" target="_blank">Sergiy</a>
 
 &#xa0;
 
