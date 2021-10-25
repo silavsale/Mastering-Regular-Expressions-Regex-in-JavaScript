@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Mastering Regular Expressions in javascript" />
+  <img src="https://github.com/silavsale/Mastering-Regular-Expressions-Regex-in-JavaScript" alt="Mastering Regular Expressions in javascript" />
 
 &#xa0;
 
