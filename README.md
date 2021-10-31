@@ -50,15 +50,15 @@ All about Regex
 
 ## :sparkles: Project Structure
 
-:heavy_check_mark: Section 1: Getting Started with Regular Expressions;\
+:heavy_check_mark: Section 1: Getting Started with Regular Expressions;
 
 1. Methods
 2. Flags
 3. Regexpal
 
-:heavy_check_mark: Section 2: Specifying Characters in Regular Expres;\
-:heavy_check_mark: Section 3: Working with Character Sets;\
-:heavy_check_mark: Section 4: Using Repetition in Regular Expressions;\
+:heavy_check_mark: Section 2: Specifying Characters in Regular Expres;
+:heavy_check_mark: Section 3: Working with Character Sets;
+:heavy_check_mark: Section 4: Using Repetition in Regular Expressions;
 
 ## :rocket: Docs
 
